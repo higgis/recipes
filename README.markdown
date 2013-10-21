@@ -1,0 +1,12 @@
+Recipes
+=======
+
+These are some recipes that I've created. Some of thjem have been refined over many iterations. Others I have made up on the spur of the moment.
+
+You're welcome to use them as you see fit, but please don't blame me if you don't like them, find them too complicated/simple/boring/exciting.
+
+* [Miso Chicken](https://github.com/higgis/recipes/blob/master/miso_chicken.markdown)
+* Lasagne (coming soon)
+* Spaghetti alle Vongole (coming soon)
+* Lemon chicken
+* Beef cheek and tomato stew
