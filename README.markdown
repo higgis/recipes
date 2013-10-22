@@ -6,7 +6,7 @@ These are some recipes that I've created. Some of them have been refined over ma
 You're welcome to use them as you see fit, but please don't blame me if you don't like them, or find them too complicated/simple/boring/exciting.
 
 * [Miso Chicken](https://github.com/higgis/recipes/blob/master/miso_chicken.markdown)
-* Lasagne (coming soon)
+* [Lasagne](https://github.com/higgis/recipes/blob/master/lasagne.markdown)
 * Spaghetti alle Vongole (coming soon)
 * Lemon chicken
 * Beef cheek and tomato stew
