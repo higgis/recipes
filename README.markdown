@@ -8,5 +8,6 @@ You're welcome to use them as you see fit, but please don't blame me if you don'
 * [Miso Chicken](https://github.com/higgis/recipes/blob/master/miso_chicken.markdown)
 * [Lasagne](https://github.com/higgis/recipes/blob/master/lasagne.markdown)
 * Spaghetti alle Vongole (coming soon)
-* Lemon chicken
-* Beef cheek and tomato stew
+* Lemon chicken (coming soon)
+* Beef cheek and tomato stew (coming soon)
+* Spicy pork balls with papaya salad (coming soon)
